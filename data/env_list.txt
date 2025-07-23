@@ -1,0 +1,12 @@
+Water_(non-saline)
+Soil_(non-saline)
+Animal_distal_gut
+Animal_surface
+Plant_surface
+Surface_(non-saline)
+Animal_secretion
+Water_(saline)
+Sediment_(saline)
+Plant_rhizosphere
+Sediment_(non-saline)
+Animal_proximal_gut
