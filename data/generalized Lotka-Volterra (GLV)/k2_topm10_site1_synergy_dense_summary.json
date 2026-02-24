@@ -1,0 +1,55 @@
+{
+  "sid": "glv200_alpha1.0_K2_all_targets_df.tsv",
+  "glv_meta": "glv_meta_alpha1.0.json",
+  "metric": "synergy",
+  "truth_def": "topm_pos(m=10) per target per site; pairs among selected sources",
+  "truth_mode": "site1",
+  "sites": [
+    "site1",
+    "site2",
+    "site3",
+    "site4",
+    "site5"
+  ],
+  "n_triplets_scored": 3940200,
+  "positives": 5412,
+  "baseline": 0.001373534338358459,
+  "AUPRC": 0.0014277787836817078,
+  "stats_by_site": {
+    "site1": {
+      "targets": 200,
+      "sum_pos_sources": 1588,
+      "sum_selected_sources": 1510,
+      "num_truth_triplets": 5412,
+      "num_pairs_generated_raw": 5412
+    },
+    "site2": {
+      "targets": 200,
+      "sum_pos_sources": 1574,
+      "sum_selected_sources": 1515,
+      "num_truth_triplets": 5488,
+      "num_pairs_generated_raw": 5488
+    },
+    "site3": {
+      "targets": 200,
+      "sum_pos_sources": 1654,
+      "sum_selected_sources": 1551,
+      "num_truth_triplets": 5691,
+      "num_pairs_generated_raw": 5691
+    },
+    "site4": {
+      "targets": 200,
+      "sum_pos_sources": 1607,
+      "sum_selected_sources": 1526,
+      "num_truth_triplets": 5498,
+      "num_pairs_generated_raw": 5498
+    },
+    "site5": {
+      "targets": 200,
+      "sum_pos_sources": 1596,
+      "sum_selected_sources": 1528,
+      "num_truth_triplets": 5481,
+      "num_pairs_generated_raw": 5481
+    }
+  }
+}
